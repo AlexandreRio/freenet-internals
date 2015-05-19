@@ -38,6 +38,6 @@ At the moment I don't have all the answers to my questions. I wrote the summary 
 
 Feel free to suggest other ideas.
 
-## Licence
+## License
 
 I still have to figure out which licence to use. I want it to be as free as possible but I will also have to use existing texts and schemas.
