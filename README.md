@@ -11,6 +11,7 @@ Quick list of what will be discussed in this book
 * Inventory of communication plugins such as Freetalk, FMS, Frost, Sone …
 * abstract and explanation of the paper "Measuring Freenet in the Wild"
 * Explanation of how Freenet stores its data on a node (`storage` and `cache`)
+* Details about Freenet URL and key systems
 * Explanation of the different ` core settings`
 
 And in a second time
