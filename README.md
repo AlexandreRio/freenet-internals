@@ -40,4 +40,4 @@ Feel free to suggest other ideas.
 
 ## License
 
-I still have to figure out which licence to use. I want it to be as free as possible but I will also have to use existing texts and schemas.
+I still have to figure out which license to use. I want it to be as free as possible but I will also have to use existing texts and schemas, probably a GPL-compatible license.
