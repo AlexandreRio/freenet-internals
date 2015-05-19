@@ -26,7 +26,7 @@ This should give a general aspect of what I want to put in that book, if you see
 
 I want this book to be as easy to read as possible. It will talk about the technical aspects of Freenet in more detailed way than the official documentation. Citing the source code itself when it's possible.
 
-This book is available in [English](https://www.gitbook.com/book/alexandrerio/freenet-internals) but also in [French](https://www.gitbook.com/book/alexandrerio/freenet-internals-french-version/details), my native language.
+This book is available in [English](https://www.gitbook.com/book/alexandrerio/freenet-internals) but also in [French](https://www.gitbook.com/book/alexandrerio/freenet-internals-french-version/details), my native language. It's highly probable that the french version is most up to date and also better written.
 
 ## About the author
 
