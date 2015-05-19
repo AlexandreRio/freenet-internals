@@ -11,7 +11,7 @@ Quick list of what will be discussed in this book
 * Inventory of communication plugins such as Freetalk, FMS, Frost, Sone …
 * abstract and explanation of the paper "Measuring Freenet in the Wild"
 * Explanation of how Freenet stores its data on a node (`storage` and `cache`)
-* Explanation of the various `core settings`
+* Explanation of the different ` core settings`
 
 And in a second time
 * Limits of the anonymous sytem, from a technical point of view, e.g. opennet IPs and DPI, attacks over the network
@@ -28,6 +28,14 @@ I want this book to be as easy to read as possible. It will talk about the techn
 This book is available in [English](https://www.gitbook.com/book/alexandrerio/freenet-internals) but also in [French](https://www.gitbook.com/book/alexandrerio/freenet-internals-french-version/details), my native language.
 
 ## About the author
+
+I'm Alexandre Rio, I'm not one the Freenet developpers but I use it for many years.
+
+I created this book because I was tired to look for hours for a simple question. Tired to look in outdated documentation and finally end up asking on IRC.
+
+At the moment I don't have all the answers to my questions. I wrote the summary based on what I think is important.
+
+Feel free to suggest other ideas.
 
 ## Licence
 
