@@ -5,11 +5,13 @@ This book aims to popularize how Freenet works. To be short Freenet is a network
 Quick list of what will be discussed in this book
 * global structure of the network
 * nodes behavior and what they do constantly
-* node location and its impact
+* node `location` and its impact
 * WebOfTrust, how it works and its API
 * what is the purge-db4o build
 * Inventory of communication plugins such as Freetalk, FMS, Frost, Sone …
 * abstract and explanation of the paper "Measuring Freenet in the Wild"
+* Explanation of how Freenet stores its data on a node (`storage` and `cache`)
+* Explanation of the various `core settings`
 
 And in a second time
 * Limits of the anonymous sytem, from a technical point of view, e.g. opennet IPs and DPI, attacks over the network
