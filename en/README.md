@@ -17,7 +17,7 @@ Quick list of what will be discussed in this book
 And in a second time
 * Limits of the anonymous sytem, from a technical point of view, e.g. opennet IPs and DPI, attacks over the network
 * some user recommandations about what to post (social aspect)
-* Limits of come current implementations, to answer "Why is WoT so slow?"
+* Limits of some current implementations, to answer "Why is WoT so slow?"
 
 
 This should give a general aspect of what I want to put in that book, if you see anything else to add please contact me.
