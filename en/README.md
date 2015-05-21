@@ -1,8 +1,8 @@
-# Freenet
+# Freenet internals
 
 This book aims to popularize how Freenet works. To be short Freenet is a network allowing users to publish and retrieve files anonymously.
 
-Quick list of what will be discussed in this book
+Quick list of what will be discussed in this book (in no particular order)
 * global structure of the network
 * nodes behavior and what they do constantly
 * node `location` and its impact
@@ -12,7 +12,7 @@ Quick list of what will be discussed in this book
 * abstract and explanation of the paper "Measuring Freenet in the Wild"
 * Explanation of how Freenet stores its data on a node (`storage` and `cache`)
 * Details about Freenet URL and key systems
-* Explanation of the different ` core settings`
+* Explanation of the different `core settings`
 
 And in a second time
 * Limits of the anonymous sytem, from a technical point of view, e.g. opennet IPs and DPI, attacks over the network
@@ -20,7 +20,7 @@ And in a second time
 * Limits of some current implementations, to answer "Why is WoT so slow?"
 
 
-This should give a general aspect of what I want to put in that book, if you see anything else to add please contact me.
+This should give a general aspect of what I want to put in this book, if you see anything else to add please contact me.
 
 ## About this book
 
