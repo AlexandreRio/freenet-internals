@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Présentation](presentation.md)
-* [Références](references.md)
+* [References](references.md)
 
