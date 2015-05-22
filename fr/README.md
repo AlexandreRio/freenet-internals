@@ -25,7 +25,7 @@ Et dans un second temps :
 
 Je veux que ce livre explique le plus clairement possible le fonctionnement et le comportement de Freenet. De manière plus précise que la documentation officielle, en citant quand cela est possible le code source directement. 
 
-Ce livre est disponible en [Français](https://www.gitbook.com/book/alexandrerio/freenet-internals-french-version/details), ma langue maternelle, mais également en [Anglais](https://www.gitbook.com/book/alexandrerio/freenet-internals).
+Ce livre est disponible en [Français](http://alexandrerio.gitbooks.io/freenet-internals/content/fr/index.html), ma langue maternelle, mais également en [Anglais](http://alexandrerio.gitbooks.io/freenet-internals/content/en/index.html).
 
 ## À propos de l'auteur
 
