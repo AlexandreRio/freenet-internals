@@ -10,11 +10,9 @@ Les thèmes abordés dans ce livre seront les suivants :
 * Fonctionnement du WebOfTrust et son API
 * Que va changer le build purge-db4o
 * État des lieux des différents plugins de communication type Freetalk, FMS, Frost, Sone etc
-* Résumé et explication de l'article ["Measuring Freenet in the Wild"][1]
+* Résumé et explication de l'article "Measuring Freenet in the Wild"
 * Détail des URL sur Freenet et des systèmes de clés
 * Explication des différents `core settings`
-
-[1]: Test de footnote http://link.springer.com/chapter/10.1007/978-3-319-08506-
 
 Et dans un second temps :
 * Aborder la limite de l'anonymat, du point de vue technique avec par exemple les IPs en opennet et le DPI, des types d'attaques envisageables et du point de vue utilisateur, en gros un laïus sur du recoupement d'information postée
