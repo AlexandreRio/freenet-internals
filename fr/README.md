@@ -10,7 +10,7 @@ Les thèmes abordés dans ce livre seront les suivants :
 * Fonctionnement du WebOfTrust et son API
 * Que va changer le build purge-db4o
 * État des lieux des différents plugins de communication type Freetalk, FMS, Frost, Sone etc
-* Résumé et explication de l'article "Measuring Freenet in the Wild"
+* Résumé et explication de l'article "Measuring Freenet in the Wild"[^1]
 * Détail des URL sur Freenet et des systèmes de clés
 * Explication des différents `core settings`
 
@@ -47,3 +47,5 @@ ou mêne directement sur Freenet :
 ## Licence
 
 Je pense citer au maximum la documentation déjà existente, en particulier pour les schémas. Pour éviter tout contentieux je préfère attendre avant de choisir une licence. Elle sera tout de même le plus libre possible, surement une GPL.
+
+[^1]http://link.springer.com/chapter/10.1007/978-3-319-08506-7_14
