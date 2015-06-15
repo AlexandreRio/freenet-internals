@@ -5,7 +5,7 @@ Freenet est un réseau P2P (peer to peer) construit sur Internet. Il permet prin
 ## Le réseau
 
 ### Structure
-Chaque nœud est demandeur et producteur de contenu
+Chaque nœud peut être demandeur et producteur de contenu et ce en permanence, 
 
 Smallworld
 
