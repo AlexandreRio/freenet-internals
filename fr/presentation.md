@@ -12,13 +12,15 @@ Chaque nœud est demandeur et producteur de contenu, puisque le réseau ne poss�
 
 Pour récupérer un fichier un nœud doit donc en récupérer les morceaux un à un disséminer sur le réseau.
 
+Pour permettre au réseau de bien fonctionner les nœuds s'échangent en permanence des morceaux de fichier.
+
+C'est grâce à la bande passante et à l'espace disque, souvent appelé `datastore`, que chaque nœud met à disposition que Freenet peut fonctionner.
+
 Smallworld
 
 ### Robustesse
 
 L'un des avantages de Freenet et qui le rend plus résistant aux pannes que les autres darknets (voir état de l'art) est qu'un fichier est découpé et disséminé sur le réseau. Pour supprimer manuellement un fichier il faudrait pouvoir localiser les morceaux et les retirer des datastores, ce qui est impossible.
-
-datastore
 
 ## Un nœud
 
