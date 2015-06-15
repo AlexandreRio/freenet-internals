@@ -3,4 +3,4 @@
 * [Introduction](README.md)
 * [Presentation](presentation.md)
 * [References](references.md)
-
+* [Glossaire](GLOSSARY.md)
