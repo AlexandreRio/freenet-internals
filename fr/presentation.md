@@ -14,7 +14,7 @@ Pour récupérer un fichier un nœud doit donc en récupérer les morceaux un à
 
 Pour permettre au réseau de bien fonctionner les nœuds s'échangent en permanence des morceaux de fichier.
 
-C'est grâce à la bande passante et à l'espace disque, souvent appelé `datastore`, que chaque nœud met à disposition que Freenet peut fonctionner.
+C'est grâce à la bande passante et à l'espace disque, souvent appelé datastore, que chaque nœud met à disposition que Freenet peut fonctionner.
 
 Smallworld
 
