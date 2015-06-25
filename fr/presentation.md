@@ -16,7 +16,7 @@ Pour permettre au réseau de bien fonctionner les nœuds s'échangent en permane
 
 C'est grâce à la bande passante et à l'espace disque, souvent appelé datastore, que chaque nœud met à disposition que Freenet peut fonctionner.
 
-Smallworld
+### Smallworld
 
 ### Robustesse
 
