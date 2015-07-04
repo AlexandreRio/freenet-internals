@@ -1,6 +1,7 @@
 # Freenet
 
-Ce livre a pour but de vulgariser le fonctionnement de Freenet. Freenet est un réseau de publication et récupération de documents anonyme.
+Ce livre a pour but de vulgariser le fonctionnement de Freenet.
+Freenet est un réseau de publication et récupération de documents anonyme.
 
 Les thèmes abordés dans ce livre seront les suivants :
 * Structure globale du réseau
