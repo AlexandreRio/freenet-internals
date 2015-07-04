@@ -18,14 +18,17 @@ C'est grâce à la bande passante et à l'espace disque, souvent appelé datasto
 
 ### Smallworld
 
-### Robustesse
+### Résistant à la censure
 
-L'un des avantages de Freenet et qui le rend plus résistant aux pannes que les autres darknets (voir état de l'art) est qu'un fichier est découpé et disséminé sur le réseau. Pour supprimer manuellement un fichier il faudrait pouvoir localiser les morceaux et les retirer des datastores, ce qui est impossible.
+L'un des avantages de Freenet et qui le rend plus résistant aux pannes que les autres darknets (voir état de l'art) est qu'un fichier est découpé puis disséminé sur le réseau. Pour censurer un fichier et donc le retirer du réseau il faut localiser chaque copie de chaque morceau le composant.
 
-## Un nœud
+Pour supprimer manuellement un fichier il faudrait pouvoir localiser les morceaux et les retirer des datastores, ce qui est impossible.
+
+### Résistant aux spam
 
 ## Les modes de connexion
 
 ### Opennet
+tl;ld: On ne cache pas qu'on fait tourner un nœud mais on cache ce qu'on en fait
 
 ### Darknet
