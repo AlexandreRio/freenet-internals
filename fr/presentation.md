@@ -22,9 +22,11 @@ C'est grâce à la bande passante et à l'espace disque, souvent appelé datasto
 
 L'un des avantages de Freenet et qui le rend plus résistant aux pannes que les autres darknets (voir état de l'art) est qu'un fichier est découpé puis disséminé sur le réseau. Pour censurer un fichier et donc le retirer du réseau il faut localiser chaque copie de chaque morceau le composant.
 
-Pour supprimer manuellement un fichier il faudrait pouvoir localiser les morceaux et les retirer des datastores, ce qui est impossible.
+Pour supprimer manuellement un fichier il faudrait pouvoir localiser les morceaux et les retirer de tous les datastores du réseau, ce qui est impossible.
 
 ### Résistant aux spam
+
+Certains plugins de communication fonctionnant sur le réseau utilisent le plugin `WebOfTrust` pour que chaque ajout de contenu se fasse sous une `Identity`, identité, à laquelle une confiance est associée.
 
 ## Les modes de connexion
 
